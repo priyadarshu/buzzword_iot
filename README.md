@@ -1,6 +1,6 @@
 # buzzword_iot
 
-#IOT (Internet of Things)
+# IOT (Internet of Things)
 
 Internet of things is an interrelated network of computing devices, electronics, sensors, actuators, connectors and objects each provided with unique identifiers (UIDs) and with the ability to connect, interact and exchange data expanding its scope with the pace in the technologies.
 
