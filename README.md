@@ -18,9 +18,12 @@ discovered it in 2016.
 
 # References
 
-1.Artificial Intelligence: a Silver Bullet inCyber Security? CPX 360 Keynote
-2.https://www.youtube.com/watch?v=ggje-L0ViFM
-3.https://www.dataforensics.org/drone-forensics/
+- .Artificial Intelligence: a Silver Bullet inCyber Security? CPX 360 Keynote
+
+- https://www.youtube.com/watch?v=ggje-L0ViFM
+
+- https://www.dataforensics.org/drone-forensics/
+
 
 
 
